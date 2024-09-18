@@ -6,7 +6,7 @@
 📫 How to reach me: 
 linkedin.com/in/cleitomalexsandro/
 instagram.com/cleitomalexsandro/
-😄 Pronouns: He/Him
-⚡ Fun fact: I transitioned from logistics to IT and love combining both fields in problem-solving.
+😄 Pronouns: He/ Him
+⚡ Fun fact: I transitioned from logistics to IT.
 
 <!--- samuraidelprata/samuraidelprata is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. --->
