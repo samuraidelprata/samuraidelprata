@@ -15,7 +15,9 @@ About Me:
 🌐 I’m looking to collaborate on software development and logistics technology projects.
 
 📫 How to reach me: 
+
 linkedin.com/in/cleitomalexsandro/
+
 instagram.com/cleitomalexsandro/
 
 😄 Pronouns: He/ Him
