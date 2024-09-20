@@ -3,7 +3,9 @@
         System.out.println(" Hi, I’m @samuraidelprata ou Cleitin! ");
     }
 }
+
 About Me:
+
 👀 I’m passionate about system development, logistics management, and technology. Currently, I’m on a journey to bridge these fields with innovative solutions.
 
 🌱 I’m studying Systems Development at Senac Minas Gerais, Brazil, where I'm expanding my knowledge in both frontend and backend technologies.
